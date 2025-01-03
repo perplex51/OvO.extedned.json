@@ -22,7 +22,7 @@
         },
         "about": {
             "Block Producer": "HP Elitedesk 800 G5 Mini - i7-9700T CPU @2.GHz x 8 Core",
-            "Relay Node": "Dell OptoPlex 7050 Mini - i7-6700 CPU @ 2.4GHZ x 8 Core",
+            "Relay Node": "Dell OptoPlex 7050 Mini - i7-6700 CPU @ 3.4GHz x 8 Core",
             "Power": "Solar powered home, each PC using around 5-10 Watt per hour"
         }
     }
